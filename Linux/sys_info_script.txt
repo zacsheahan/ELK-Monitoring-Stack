@@ -1,6 +1,6 @@
 #!/bin/bash
-name='Todd'
-date='04/13/2021'
+name='Zac'
+date='03/22/2022'
 uname='Linux'
 ipaddress='10.0.2.15'
 Hostname='UbuntuDesktop'
